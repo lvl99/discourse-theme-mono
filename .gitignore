@@ -1,0 +1,12 @@
+!.gitignore
+!.gitkeep
+.DS_Store
+Thumbs.db
+.vscode
+.vs
+.idea
+tmp
+var
+etc
+logs
+*.log
