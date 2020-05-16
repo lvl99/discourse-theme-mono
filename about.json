@@ -9,25 +9,49 @@
   "maximum_discourse_version": null,
   "assets": {},
   "color_schemes": {
-    "Mono Light": {
-      "primary": "111111",
+    "Light": {
+      "primary": "000000",
       "secondary": "ffffff",
       "tertiary": "666666",
       "quaternary": "999999",
       "header_background": "ffffff",
-      "header_primary": "111111",
+      "header_primary": "000000",
       "highlight": "cccccc",
       "danger": "ee0022",
       "success": "00eedd",
       "love": "ffcc00"
     },
-    "Mono Dark": {
-      "primary": "eeeeee",
-      "secondary": "111111",
+    "Light - Dark Header": {
+      "primary": "000000",
+      "secondary": "ffffff",
+      "tertiary": "666666",
+      "quaternary": "999999",
+      "header_background": "000000",
+      "header_primary": "ffffff",
+      "highlight": "cccccc",
+      "danger": "ee0022",
+      "success": "00eedd",
+      "love": "ffcc00"
+    },
+    "Dark": {
+      "primary": "ffffff",
+      "secondary": "000000",
       "tertiary": "cccccc",
       "quaternary": "999999",
-      "header_background": "111111",
-      "header_primary": "eeeeee",
+      "header_background": "000000",
+      "header_primary": "ffffff",
+      "highlight": "444444",
+      "danger": "ee0022",
+      "success": "00eedd",
+      "love": "ffcc00"
+    },
+    "Dark - Light Header": {
+      "primary": "ffffff",
+      "secondary": "000000",
+      "tertiary": "cccccc",
+      "quaternary": "999999",
+      "header_background": "ffffff",
+      "header_primary": "000000",
       "highlight": "444444",
       "danger": "ee0022",
       "success": "00eedd",
